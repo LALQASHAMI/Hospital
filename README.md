@@ -1,0 +1,1 @@
+This Python code simulates a hospital registration system. Patients enter information(name, age ,ID) choose a clinic of their liking , and receive a unique waiting number. The program avoids assigning duplicate numbers and confirms registration before thanking patients for visiting. It's a simplified model of the real-world process, focusing on the basic steps involved.
